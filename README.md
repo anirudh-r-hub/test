@@ -1,2 +1,2 @@
 # test
-A test repository to practise git commands.
+A test repository for practising git commands.
